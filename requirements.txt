@@ -1,0 +1,6 @@
+streamlit
+pytesseract
+pandas
+numpy
+Pillow
+opencv-python
